@@ -1,0 +1,50 @@
+# 虚拟环境（包含常见虚拟环境命名）
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python 字节码文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 依赖相关
+*.egg-info/
+.dist-info/
+build/
+dist/
+*.egg
+pip-wheel-metadata/
+wheelhouse/
+
+# IDE/编辑器配置（PyCharm、VS Code、Sublime 等）
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# 日志与输出文件
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.sqlite3
+*.db
+*.csv.bak
+*.png.bak
+*.out
+*.err
+
+# Jupyter Notebook 缓存
+.ipynb_checkpoints/
+__pycache__/
+
+# 操作系统文件
+.DS_Store
+cleaned_data.csv
