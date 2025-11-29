@@ -47,4 +47,3 @@ __pycache__/
 
 # 操作系统文件
 .DS_Store
-cleaned_data.csv
